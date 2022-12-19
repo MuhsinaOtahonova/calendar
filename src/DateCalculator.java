@@ -10,7 +10,7 @@ public class DateCalculator {
     private JComboBox dayComboBox;
     private JButton calculateDaysButton;
     private JPanel resultPanel;
-    private JButton button2;
+    private JButton alooButton;
     private JLabel todayDateLabel;
     private JComboBox yearComboBox;
     private JLabel daysDifferenceLabel;
